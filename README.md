@@ -13,7 +13,7 @@ This project implements an ERC20 token named "Solidity by Example" with symbol "
 
 - Clone this repository to your local machine:
   ```
-      git clone https://github.com/Pound01/AvalancheSubnet.git
+      git clone https://github.com/grace01232/avalanche_subnet.git
   ```
 - Ensure you have a development environment like Hardhat or Truffle installed:
   ```
@@ -52,8 +52,7 @@ Common issues might include network connection problems or incorrect configurati
 
 Contributors names and contact info:
 
-- Pound01
-  @Poundss1
+- Grace01
 
 ### License
 
